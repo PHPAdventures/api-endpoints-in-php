@@ -1,0 +1,87 @@
+[
+    {
+        "name": "C",
+        "year": 1972,
+        "description": "General-purpose computer programming language designed by Dennis Richie. It is a compiled language featuring low-level access to memory, and is incredibly popular for operating system and performant software development."
+    },
+    {
+        "name": "C++",
+        "year": 1985,
+        "description": "An extension of the C language designed by Bjarne Stroustrup that adds support for new object-oriented and funtional features that many programmers find useful. It is commonly used for desktop applications, video games, and other performance-critical software."
+    },
+    {
+        "name": "C#",
+        "year": 2000,
+        "description": "A general purpose programming language designed by Anders Hejilsberg at Microsoft. It is compiled, performant, and includes many modern features. Microsoft released the Visual Studio IDE, a powerful development ecosystem and environment centred around this language, to encourage adoption."
+    },
+    {
+        "name": "Elixir",
+        "year": 2012,
+        "description": "A language built on the Erlang language, designed by José Valim. It is functional and is general-purpose, specializing in fault tolerance for handling of many concurrent processes. It is designed to be very extensible."
+    },
+    {
+        "name": "Go",
+        "year": 2009,
+        "description": "A compiled programming language designed by Robert Griesemer, Rob Pike, and Ken Thompson at Google. It is inspired by C, intending to be very performant, but with an easier to follow and more forgiving syntax."
+    },
+    {
+        "name": "Java",
+        "year": 1995,
+        "description": "A class-based write-once run-anywhere compiled language designed by James Goslingm; maintained by Sun Microsystems and Oracle."
+    },
+    {
+        "name": "JavaScript",
+        "year": 1995,
+        "description": "A language intended initially for web page programming turned general purpose interpreted scripting language designed by Brendan Eich. With the inception of software like Node.js and Deno, it can now even be used to develop server and desktop programs."
+    },
+    {
+        "name": "Julia",
+        "year": "A high-performance interpreted language designed by Jeff Bezanson, Alan Edelman, Stefan Karpinski, and Virabl B. Shah (among others) best suited for information processing and analysis of numeric data.",
+        "description":""
+    },
+    {
+        "name": "Kotlin",
+        "year": 2011,
+        "description": "A language interoperable with Java, boasting its predecessor's capabilities along with additional features and more compilation options. Designed and developed by the company: JetBrains."
+    },
+    {
+        "name": "Lua",
+        "year": 1993,
+        "description": "Often embedded in applications, Lua is a light and fast interpreted programming lanuage designed by Roberto Ierusalimschy, Waldemar Celes, and Luiz Henrique de Figueiredo"
+    },
+    {
+        "name": "Perl",
+        "year": 1988,
+        "description": "An interpreted general purpose language boasting intense flexibility. Originally designed by Larry Wall."
+    },
+    {
+        "name": "PHP",
+        "year": 1995,
+        "description": "A general purpose scripting language intended for web development designed by Rasmus Lerdorf. Executed scripts usually send HTML strings to a client."
+    },
+    {
+        "name": "Python",
+        "year": 1991,
+        "description": "An interpreted general purpose programming language designed by Guido van Rossum. Python places emphasis on legible code and white-space based formatting."
+    },
+    {
+        "name": "R",
+        "year": 1993,
+        "description": "A programming language intended for statistics computation and stat graphics, originalled designed by Ross Ihaka and Robert Gentleman."
+    },
+    {
+        "name": "Ruby",
+        "year": 1995,
+        "description": "A general purpose and interpreted programming language with a deep focus on developer productivity and a positive programmer experience. Developed and designed by Yukihiro Matsumoto."
+    },
+    {
+        "name": "Rust",
+        "year": 2010,
+        "description": "A performant, compiled, general purpose language with high type and memory safety considerations. Originally designed by Graydon Hoare."
+    },
+    {
+        "name": "Swift",
+        "year": 2014,
+        "description": "An Apple-developed replacement for Objective-C, and is largely used in development of Apple software, though there have been open-source developments allowing for use elsewhere."
+    }
+]

@@ -1,2 +1,4 @@
-# api-endpoints-in-php
-Time "four" more, in our fourth monthly meet!
+# API Endpoints in PHP
+
+For more information about our meet-up, please visit our website:
+[https://phpadventures.com](https://phpadventures.com)
